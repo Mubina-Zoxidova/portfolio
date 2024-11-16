@@ -159,7 +159,6 @@
   }
   
   .footer-logo {
-    font-family: "Dancing Script", cursive;
     font-size: 30px;
     font-weight: 700;
     color: darkcyan;
@@ -177,7 +176,6 @@
   }
   
   .footer-link {
-    font-family: "Dancing Script", cursive;
     font-size: 20px;
     font-weight: 600;
     color: darkcyan;
@@ -190,7 +188,6 @@
   }
   
   .footer-desc {
-    font-family: "Dancing Script", cursive;
     margin-block: 0;
     font-size: 20px;
     font-weight: 600;
